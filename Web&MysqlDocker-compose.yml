@@ -18,3 +18,9 @@ services:
       MYSQL_DATABASE: mydb
       MYSQL_USER: user
       MYSQL_PASSWORD: userpass
+
+
+      
+#mkdir web
+#echo "<?php phpinfo(); ?>" > web/index.php
+#docker-compose up -d
